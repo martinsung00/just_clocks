@@ -1,0 +1,8 @@
+## Environment ##
+MODE=development
+
+## Production ##
+PROD_PORT=4000
+
+## Development ##
+DEV_PORT=3000

@@ -51,14 +51,15 @@ You can also:
 
 <a>
   <img src="images/addClockGify.gif" alt="addClock" width="400px" height"200px"/>
+  <br />
 </a>
 
 * Adjust the timezone by clicking on the current timezone next to the respective clocks! :alarm_clock:
 
 <a>
   <img src="images/timezoneChangeGify.gif" alt="timezone" width="400px" height"200px"/> 
+  <br />
 </a>
-< br/>
 
 This is all made possible with the power of React Hooks, CSS, SASS, and ES6. :hourglass:
 
